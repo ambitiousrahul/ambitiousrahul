@@ -1,4 +1,4 @@
-                                                                                                          ![](https://komarev.com/ghpvc/?username=ambitiousrahul&color=blue)
+![](https://komarev.com/ghpvc/?username=ambitiousrahul&color=blue)
 
 - 👋 Hi, I’m @ambitiousrahul
 - 👀 I’m software developer with around 8 years of experience in web devlopment, implemented various features and thier several functionalites, also UI features in aspnet mvc, web apis and html pages using microsoft stack language like c#, c# core and obviously javascript too ...Also got fundamental development skills for Azure cloud services.
